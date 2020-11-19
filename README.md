@@ -1,2 +1,2 @@
-# projectgames
-its for university
+# project-game
+ its project for university
